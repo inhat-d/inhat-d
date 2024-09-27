@@ -1,6 +1,6 @@
 <div align="center">
-    <h2>Hello There! 👋</h3>
-    <h3>I`m tiny_mauss</h2>
+    <h2>Hello There! 👋</h2>
+    <h2>I`m tiny_mauss</h2>
     <p align="center">
         <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">
             <img src="mauss.webp" width="75"/>
@@ -9,7 +9,7 @@
     <p align="center">
         ||<a href="https://github.com/eust-w/eust-w/blob/main/README_UA.md"><span>Українська</span></a>||
     </p>
-    <p>👾 I do cool or not stuff 👾</p>
+    <h2>👾 I do cool or not stuff 👾</h2>
     <h4 align="center">My projects</h4>
     <table align="center">
         <tr>
