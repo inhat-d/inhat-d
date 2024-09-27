@@ -1,4 +1,4 @@
 <p align="center">
-  # Hello There! 👋
+  <h3> Hello There! 👋 </h3>
   <img> ./mauss.webp
 </p>
