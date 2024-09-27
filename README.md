@@ -24,8 +24,8 @@ Memories:<br>
 	[ERROR: Encrypted data\>]<br>
 These memories warm my heart like nothing else
 
-Fears:
-Thalassophobia.
+Fears:<br>
+Thalassophobia.<br>
 
 
 Hopes:
