@@ -26,9 +26,9 @@ These memories warm my heart like nothing else<br>
 <br>
 Fears:<br>
 Thalassophobia.<br>
+<br>
 
-
-Hopes:
+Hopes:<br>
 To survive.
 <details>   
   
