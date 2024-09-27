@@ -3,6 +3,7 @@
 
 <details>
 <summary> Hey, here's a table</summary>
+  
 | Something | Yep |
 |-----:|-----------|
 |     1| :)|
