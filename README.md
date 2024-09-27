@@ -1,17 +1,38 @@
+
 <div align="center">
     <h3>Hello There! 👋</h3>
-    <h3>I`m tiny_mauss</h3>
+    <h2>I'm tiny_mauss</h2>
     <p align="center">
         <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">
             <img src="mauss.webp" width="75"/>
         </a>
     </p>
     <p align="center">
-        ||<a href="https://github.com/eust-w/eust-w/blob/main/README_UA.md"><span>Українська</span></a>||
+        ||<a href="https://github.com/eust-w/eust-w/blob/main/README-UA.md"><span>Українська</span></a>||
     </p>
-    <h3>👾 I do cool or not stuff 👾</h3>
-    <h3 align="center">My projects</h3>
-    <table align="center">
+</div>
+<div>
+    <h3 align=center>👾 I do cool or not stuff 👾</h3>
+    <h2>About me</h2>
+    <p>
+I'm a young programmer from Ukraine:)<br>
+I don't come here often, but I do interesting things.
+	</p>
+<details>
+<summary>Some unnecessary info</summary>
+Memories:<br>
+\<ERROR: Encrypted data\>
+These memories warm my heart like nothing else
+
+Fears:
+Thalassophobia.
+
+
+Hopes:
+To survive.
+<details>   
+  
+   <table align="center">
         <tr>
             <td><a href="https://github.com/inhat-d/OneOne">OneOne-AI</a> - Speek to OneOne, from Infinite Train series</td>
             <td><a href="https://github.com/inhat-d/RaspMessage">RaspMessage</a> - (Was a private) website to cheet on lessons</td>
