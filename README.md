@@ -7,13 +7,7 @@
         </a>
     </p>
     <p align="center">
-        <a href="https://github.com/eust-w/eust-w/blob/main/README_CN.md"><span>中文</span></a>|
-        <a href="https://github.com/eust-w/eust-w/blob/main/README_FR.md"><span>Français</span></a>|
-        <a href="https://github.com/eust-w/eust-w/blob/main/README_RU.md"><span>Русский</span></a>|
-        <a href="https://github.com/eust-w/eust-w/blob/main/README_AR.md"><span>عربي</span></a>|
-        <a href="https://github.com/eust-w/eust-w/blob/main/README_JP.md"><span>日本語</span></a>|
-        <a href="https://github.com/eust-w/eust-w/blob/main/README_PTBR.md"><span>Português</span></a>|
-        <a href="https://github.com/eust-w/eust-w/blob/main/README_TR.md"><span>Türkçe</span></a>
+        ||<a href="https://github.com/eust-w/eust-w/blob/main/README_UA.md"><span>Українська</span></a>||
     </p>
     <p>🌟 Welcome to my corner of the coding universe! 🌟</p>
     <h4 align="left">My Open Source Projects</h4>
