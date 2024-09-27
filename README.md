@@ -30,7 +30,7 @@ Thalassophobia.<br>
 
 Hopes:<br>
 To survive.
-<details>   
+</details>   
   
    <table align="center">
         <tr>
