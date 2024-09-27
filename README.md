@@ -1,6 +1,6 @@
 <div align="center" background-size: cover; background-position: center; padding: 20px;">
-    <h3>Hello There! 👋</h3>
-    <h2>I`m tiny_mauss</h2>
+    <h1>Hello There! 👋</h3>
+    <h3>I`m tiny_mauss</h2>
     <p align="center">
         <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">
             <img src="mauss.webp" width="75"/>
