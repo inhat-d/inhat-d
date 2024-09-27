@@ -21,7 +21,9 @@ I don't come here often, but I do interesting things.
 <details>
 <summary>Some unnecessary info</summary>
 Memories:<br>
-\<ERROR: Encrypted data\>
+```
+<ERROR: Encrypted data\>
+```
 These memories warm my heart like nothing else
 
 Fears:
