@@ -8,7 +8,7 @@
         </a>
     </p>
     <p align="center">
-        ||<a href="https://github.com/eust-w/eust-w/blob/main/README-UA.md"><span>Українська</span></a>||
+        ||<a href="https://github.com/inhat-d/inhat-d/blob/main/README-UA.md"><span>Українська</span></a>||
     </p>
 </div>
 <div>
