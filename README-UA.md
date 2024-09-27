@@ -32,7 +32,7 @@
         Вижити.
     </details>
 
-<p align="center"><h2>Мої репозиторії:</h2></p>
+<p align="center"><h2>Мої ріпки:</h2></p>
     <table align="center">
         <tr>
             <td><a href="https://github.com/inhat-d/OneOne">OneOne-AI</a> - Поговоріть з ОдинОдин з серіалу "Нескінченний Потяг"</td>
