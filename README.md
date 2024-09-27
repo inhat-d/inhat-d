@@ -43,3 +43,6 @@ To survive.
         </tr>
     </table>
 </div>
+- - -
+
+<h1> Glory to Ukraine! </h1>
