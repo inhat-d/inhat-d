@@ -1,4 +1,8 @@
+# WORK IN PROGRESS...
 
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| SQL       |
 
-
-<bold> WORK IN PROGRESS...</bold>
