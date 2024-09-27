@@ -1,5 +1,5 @@
-<div align="center" background-size: cover; background-position: center; padding: 20px;">
-    <h1>Hello There! 👋</h3>
+<div align="center">
+    <h2>Hello There! 👋</h3>
     <h3>I`m tiny_mauss</h2>
     <p align="center">
         <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">
@@ -9,11 +9,11 @@
     <p align="center">
         ||<a href="https://github.com/eust-w/eust-w/blob/main/README_UA.md"><span>Українська</span></a>||
     </p>
-    <p>🌟 Welcome to my corner of the coding universe! 🌟</p>
-    <h4 align="left">My Open Source Projects</h4>
+    <p>👾 I do cool or not stuff 👾</p>
+    <h4 align="center">My projects</h4>
     <table align="center">
         <tr>
-            <td><a href="https://github.com/eust-w/gopic">gopic</a> - Fast image hosting tool</td>
+            <td><a href="https://github.com/inhat-d/OneOne">OneOne-AI</a> - ~~Open~~ClosedAI project</td>
             <td><a href="https://github.com/eust-w/esh">esh</a> - Simple cross-platform SSH link management tool</td>
         </tr>
         <tr>
