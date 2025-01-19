@@ -60,7 +60,7 @@
     </tr>
     <tr>
       <td><b>[!NEW!]</b> PingPong-EPL</td>
-      <td>Інтерпритатор написаний на Python, ключовими командами якого є `PING` та `PONG`.</td>
+      <td>Інтерпритатор написаний на Python, ключовими командами якого є PING та PONG.</td>
     </tr>
   </tbody>
 </table>
