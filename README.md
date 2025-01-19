@@ -33,13 +33,36 @@
     </details>
 
 <p align="center"><h2>My Repos:</h2></p>
-    |Repo|info|
-|--|--|
-|OneOne-AI|Speak to OneOne from the Infinite Train series.|
-|RaspMessage|A website to comunicate with chatgpt through website.|
-|Animation|A simple screen saver animation, nothing bigger than a line.|
-|My Name Is|An Arduino program to display lyrics from an Eminem's song.|
-|[NEW!]PingPong-EPL|Interpreter written on python with key commands 'ping' and 'pong'|
+    <table>
+  <thead>
+    <tr>
+      <th>Repo</th>
+      <th>Info</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>OneOne-AI</td>
+      <td>Speak to OneOne from the Infinite Train series.</td>
+    </tr>
+    <tr>
+      <td>RaspMessage</td>
+      <td>A website to communicate with ChatGPT through a website.</td>
+    </tr>
+    <tr>
+      <td>Animation</td>
+      <td>A simple screen saver animation, nothing bigger than a line.</td>
+    </tr>
+    <tr>
+      <td>My Name Is</td>
+      <td>An Arduino program to display lyrics from Eminem's song.</td>
+    </tr>
+    <tr>
+      <td>[NEW!]PingPong-EPL</td>
+      <td>Interpreter written in Python with key commands 'ping' and 'pong'.</td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 ---
