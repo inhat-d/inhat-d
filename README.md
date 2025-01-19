@@ -59,7 +59,7 @@
     </tr>
     <tr>
       <td><b>[!NEW!]</b> PingPong-EPL</td>
-      <td>Interpreter written in Python with key commands 'ping' and 'pong'.</td>
+      <td>Interpreter written in Python with key commands ping and pong.</td>
     </tr>
   </tbody>
 </table>
