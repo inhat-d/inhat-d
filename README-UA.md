@@ -33,16 +33,37 @@
     </details>
 
 <p align="center"><h2>Мої ріпки:</h2></p>
-    <table align="center">
-        <tr>
-            <td><a href="https://github.com/inhat-d/OneOne">OneOne-AI</a> - Поговоріть з ОдинОдин з серіалу "Нескінченний Потяг"</td>
-            <td><a href="https://github.com/inhat-d/RaspMessage">RaspMessage</a> - (була приватною) вебсайт для списування на уроках</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/inhat-d/animation">Animation</a> - Простенький скрінсейвер, нічого більше</td>
-            <td><a href="https://github.com/inhat-d/MyNameIs-ARDUINO">My Name Is</a> - Програма для Arduino, що виводить слова з пісні Емінема</td>
-        </tr>
-    </table>
+    <p align="center"><h2>My Repos:</h2></p>
+    <table>
+  <thead>
+    <tr>
+      <th>Repo</th>
+      <th>Info</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>OneOne-AI</td>
+      <td>Побалакайте з ОдинОдиним з мультсеріалу Нескінченний потяг.</td>
+    </tr>
+    <tr>
+      <td>RaspMessage</td>
+      <td>Вебсайт для комунікації з ChatGPT.</td>
+    </tr>
+    <tr>
+      <td>Animation</td>
+      <td>Простенькй скрін-сейвер. Нічого надзвичайного.</td>
+    </tr>
+    <tr>
+      <td>My Name Is</td>
+      <td>Програма для Ардуіно, яка виводить текст з відомої пісні Емінема.</td>
+    </tr>
+    <tr>
+      <td><b>[!NEW!]</b> PingPong-EPL</td>
+      <td>Інтерпритатор написаний на Python, ключовими командами якого є `PING` та `PONG`.</td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 ---
