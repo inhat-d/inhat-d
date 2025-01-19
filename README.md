@@ -33,16 +33,13 @@
     </details>
 
 <p align="center"><h2>My Repos:</h2></p>
-    <table align="center">
-        <tr>
-            <td><a href="https://github.com/inhat-d/OneOne">OneOne-AI</a> - Speak to OneOne from the Infinite Train series</td>
-            <td><a href="https://github.com/inhat-d/RaspMessage">RaspMessage</a> - A website to cheat on lessons (was private)</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/inhat-d/animation">Animation</a> - A simple screen saver animation, nothing bigger</td>
-            <td><a href="https://github.com/inhat-d/MyNameIs-ARDUINO">My Name Is</a> - Arduino program to display lyrics from an Eminem song</td>
-        </tr>
-    </table>
+    |Repo|info|
+|--|--|
+|OneOne-AI|Speak to OneOne from the Infinite Train series.|
+|RaspMessage|A website to comunicate with chatgpt through website.|
+|Animation|A simple screen saver animation, nothing bigger than a line.|
+|My Name Is|An Arduino program to display lyrics from an Eminem's song.|
+|[NEW!]PingPong-EPL|Interpreter written on python with key commands 'ping' and 'pong'|
 </div>
 
 ---
