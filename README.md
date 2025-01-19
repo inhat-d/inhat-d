@@ -58,7 +58,7 @@
       <td>An Arduino program to display lyrics from Eminem's song.</td>
     </tr>
     <tr>
-      <td><bold>[NEW!]<bold> PingPong-EPL</td>
+      <td><b>[!NEW!]</b> PingPong-EPL</td>
       <td>Interpreter written in Python with key commands 'ping' and 'pong'.</td>
     </tr>
   </tbody>
