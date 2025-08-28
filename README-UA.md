@@ -1,6 +1,6 @@
 <div align="center">
     <h3>Привітик! 👋</h3>
-    <h2>Я - tiny_mauss</h2>
+    <h2>Я - hatt.ratt</h2>
     <p>
         <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">
             <img src="mauss.webp" width="75" alt="Tiny Mauss"/>
@@ -15,7 +15,7 @@
     <h3 align="center">👾 Роблю усілякі штукенції 👾</h3>
     <h2>Про мене</h2>
     <p>
-        Лиш маленький програміст з Черкас. :)<br>
+        Лиш "програміст" з Країни У. :)<br>
         Не приходжу сюди часто, але роблю цікаві штуки.
     </p>
 
