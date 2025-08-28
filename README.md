@@ -1,6 +1,6 @@
 <div align="center">
     <h3>Hello There! 👋</h3>
-    <h2>I'm tiny_mauss</h2>
+    <h2>I'm hatt.ratt</h2>
     <p>
         <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">
             <img src="mauss.webp" width="75" alt="Tiny Mauss"/>
@@ -15,7 +15,7 @@
     <h3 align="center">👾 I do cool or not stuff 👾</h3>
     <h2>About Me</h2>
     <p>
-        I'm a young programmer from Ukraine. :)<br>
+        I'm a "programmer" from Ukraine. :)<br>
         I don't come here often, but I do interesting things.
     </p>
     
